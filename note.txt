@@ -1,0 +1,4 @@
+1. Membuat assset dan layar display pada game [x]
+2. memebuat paddle [x]
+3. membuat bola []
+4. membuat hitcollition []
